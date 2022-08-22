@@ -10,4 +10,4 @@
 
 ## Further Developments:
 ### Though the results are good, they are not consistent, this could be improvised by an additional SVM layer at the end 
-along with a linear regression for the bounding boxes
+### along with a linear regression for the bounding boxes
